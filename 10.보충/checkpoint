@@ -1,0 +1,2 @@
+model_checkpoint_path: "california_weights.chkp"
+all_model_checkpoint_paths: "california_weights.chkp"
